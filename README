@@ -1,0 +1,13 @@
+Coles and Woolworths are arguabely the two biggest supermarkets in Australia. Because they’re the most famous
+supermarkets it’s natrual to have a competition betwween them. Both Coles and Woolworths are always in competition based
+on prices, quality and exclusive prducts. Both supermakets aim to provide products with superior quality in a reasonable price.
+To get an idea about the difference in price for similar products provided by Coles and Woolworths both I used Random
+sample technique to get prices for 37 products which are both available at Woolworths and Coles.
+I noted 50 products down and numbered them from 1 to 50, using online random number generator I picked 37 products out
+of the lot and created a dataset consisting of those 37 observations. The dataset “pricewars.csv” contains four
+variables(Product, Category, Prices_Coles, Price_Woolworths). The data has been collected over just a single day(18th May,
+2019)
+Summary statistics, box-plot were worked upon to get insights about the difference in price before the actual t-test. Q-Q plot
+was used to see if the prices were normally distributed.
+The t-test done below revealed that there is no significant difference between the product prices of Coles and Woolworths.
+The null hypothesis failed to get rejected.
